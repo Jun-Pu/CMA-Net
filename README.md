@@ -1,7 +1,5 @@
 # [CMA-Net: A Cascaded Mutual Attention Network for Light Field Salient Object Detection](https://arxiv.org/abs/2105.00949)
 
-Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), [*Lu Zhang*](https://luzhang.perso.insa-rennes.fr/), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
-
 # Introduction
 
 <p align="center">
