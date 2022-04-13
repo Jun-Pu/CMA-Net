@@ -33,9 +33,3 @@ Download the pretrained model at [Google Drive](https://drive.google.com/file/d/
 # Training
 
 Please refer to [CMANet_train.py](https://github.com/PanoAsh/CMA-Net/blob/main/CMANet_train.py).
-
-------
-
-# Contact
-
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions. 
