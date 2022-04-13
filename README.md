@@ -14,7 +14,7 @@ mutual attention module. CW = column-wise normalization. RW = row-wise normaliza
     </em>
 </p>
 
-we propose CMA-Net, being similar to [SA-Net](https://github.com/PanoAsh/SA-Net), which consists of two novel cascaded mutual attention modules aiming at fusing the high level features from different modalities. Our proposed CMANet outperforms 30 state-of-the-art SOD methods on two widely applied light field benchmark datasets. Besides, the proposed CMA-Net is able to inference at a speed of 53 fps, thus being much faster than the top-ranked light field SOD methods. 
+we propose CMA-Net, being similar to [SA-Net](https://github.com/PanoAsh/SA-Net) and [SA-Net-V2](https://github.com/PanoAsh/SA-Net-v2), which consists of two novel cascaded mutual attention modules aiming at fusing the high level features from different modalities. Our proposed CMANet outperforms 30 state-of-the-art SOD methods on two widely applied light field benchmark datasets. Besides, the proposed CMA-Net is able to inference at a speed of 53 fps, thus being much faster than the top-ranked light field SOD methods. 
 
 ------
 
